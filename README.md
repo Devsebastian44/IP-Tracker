@@ -1,37 +1,52 @@
-# IP-Tracker
+## IP-Tracker
 
 <p align="center">
-<img src="Logotipo.png" width="500px" height="75px">
+  <img src="./Img/Logo.png" height="300px" width="350px">
 </p>
 
-Herramienta avanzada de seguimiento y recopilacion de IP y número telefónico
+**IP-Tracker** es una herramienta avanzada de seguimiento y recopilación de direcciones IP y números telefónicos.  
+Permite realizar consultas rápidas y obtener información detallada sobre hosts y dispositivos.
 
+---
+
+## ⚙️ Requisitos
+
+- Sistema operativo: Linux (Ubuntu/Kali recomendado) o Termux en Android
+- Python 3.8 o superior
+
+
+---
+
+## 🚀 Instalación
+
+Clona el repositorio y accede al directorio:
+
+```bash
+git clone https://github.com/Devsebastian44/IP-Tracker.git
+cd IP-Tracker
 ```
-git clone https://github.com/bl4ck44/IP-Tracker.git
 
-cd IP-tracker
+---
 
-pip3 install -r requirements.txt
+## ▶️ Uso
 
+Ejecuta el script principal:
+
+```bash
 python3 tracker.py
 ```
 
-<p align="center">
-<img src="Img/muestra1.png">
-</p>
+---
 
-<p align="center">
-<img src="Img/muestra2.png" width="510px">
-</p>
+## 📜 Licencia
 
-<p align="center">
-<img src="Img/muestra3.png" width="510px">
-</p>
+Este proyecto está bajo la licencia Apache 2.0.  
+Puedes usarlo libremente con fines educativos y de investigación.
 
-### ⚠️ **Aviso**
+---
 
-Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.
+## ⚠️ Aviso
 
-No me responsabilizo del mal uso que se pueda dar ni de los daños que puedan ocasionarse por su ejecución.
-
-El uso indebido de este material puede ser **ilegal**.
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.  
+El uso indebido de este material puede ser **ilegal**.  
+No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
