@@ -36,6 +36,10 @@ Ejecuta el script principal:
 python3 tracker.py
 ```
 
+<p align="center">
+  <img src="./Img/Captura.png">
+</p>
+
 ---
 
 ## 📜 Licencia
