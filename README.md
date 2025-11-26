@@ -4,8 +4,7 @@
   <img src="./Img/Logo.png" height="300px" width="350px">
 </p>
 
-**IP-Tracker** es una herramienta avanzada de seguimiento y recopilación de direcciones IP y números telefónicos.  
-Permite realizar consultas rápidas y obtener información detallada sobre hosts y dispositivos.
+**IP-Tracker** es una herramienta avanzada de seguimiento y recopilación de direcciones IP y números telefónicos. Permite realizar consultas rápidas y obtener información detallada sobre hosts y dispositivos.
 
 ---
 
@@ -51,6 +50,4 @@ Puedes usarlo libremente con fines educativos y de investigación.
 
 ## ⚠️ Aviso
 
-Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.  
-El uso indebido de este material puede ser **ilegal**.  
-No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**. El uso indebido de este material puede ser **ilegal**. No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
